@@ -3,11 +3,11 @@
 - kotlin 
 - Clean Architecure with MVVM.
 - koin for di.
-- Rxjava2 and Rx-kotlin.
+- Rxjava2 and Rx-kotlin for reactive programmnig.
 - Retrofit2 to call restful apis.
 - Material.
 - recycler view.
-- ConstraintLayout.
+- ConstraintLayout to make design responsive.
 - viewmodel and live data.
 - currency-picker for select base currency.
 ##
